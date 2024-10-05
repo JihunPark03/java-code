@@ -1,0 +1,7 @@
+Sorting
+
+Bubble sort
+- arr[0~max]
+- 왼쪽부터 자신(arr[1])이 왼쪽 숫자(arr[0])보다 작으면 swap.
+- 이렇게 쭉 오른쪽으로 이동
+
